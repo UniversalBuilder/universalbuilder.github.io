@@ -9,14 +9,16 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 
 ##### 1.1. Basic Digital Imaging Notions
 
-[Link](https://github.com/UniversalBuilder/Resources-for-the-Life-Scientist/blob/master/Jupyter%20Notebooks/Basic_Digital_Imaging_Notions.ipynb)
-
 *Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.*
+
+[Link](https://github.com/UniversalBuilder/Resources-for-the-Life-Scientist/blob/master/Jupyter%20Notebooks/Basic_Digital_Imaging_Notions.ipynb)
 
 
 #### 2. Python
 
-**Code samples** inspired by [Python for Microscopists](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/featured) Youtube channel, by [Dr Sreenivas B.](https://www.linkedin.com/in/bnsreenu/)
+##### 2.1. Code samples
+
+*Inspired by [Python for Microscopists](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/featured) Youtube channel, by [Dr Sreenivas B.](https://www.linkedin.com/in/bnsreenu/)*
 
 [See the code samples here](https://github.com/UniversalBuilder/Course---Python-for-Microscopy)
 
