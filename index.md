@@ -12,13 +12,13 @@ If you're curious about the facility, head to [the CIF website](https://cif.unil
 
 #### Documents
 
-[Basic Digital Imaging Notions](https://github.com/UniversalBuilder/Resources-for-the-Life-Scientist/blob/master/Jupyter%20Notebooks/Basic_Digital_Imaging_Notions.ipynb) : Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.
+1. [Basic Digital Imaging Notions](https://github.com/UniversalBuilder/Resources-for-the-Life-Scientist/blob/master/Jupyter%20Notebooks/Basic_Digital_Imaging_Notions.ipynb) : Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.
 
 #### Python
 
-**Code samples** inspired by [Python for Microscopists](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/featured) Youtube channel, by Dr Sreenivas B. [LinkedIn profile](https://www.linkedin.com/in/bnsreenu/)
+**Code samples** inspired by [Python for Microscopists](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/featured) Youtube channel, by [Dr Sreenivas B.](https://www.linkedin.com/in/bnsreenu/)
 
-[Repository](https://github.com/UniversalBuilder/Course---Python-for-Microscopy)
+[See the code samples here](https://github.com/UniversalBuilder/Course---Python-for-Microscopy)
 
 #### Fiji
 
