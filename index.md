@@ -7,7 +7,11 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 
 #### 1. Documents
 
-1.1. [Basic Digital Imaging Notions](https://github.com/UniversalBuilder/Resources-for-the-Life-Scientist/blob/master/Jupyter%20Notebooks/Basic_Digital_Imaging_Notions.ipynb) : Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.
+##### 1.1. Basic Digital Imaging Notions
+
+[Link](https://github.com/UniversalBuilder/Resources-for-the-Life-Scientist/blob/master/Jupyter%20Notebooks/Basic_Digital_Imaging_Notions.ipynb)
+
+*Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.*
 
 
 #### 2. Python
@@ -22,12 +26,12 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 
 #### 5. About me
 
-![Yannick Krempp](https://media-exp1.licdn.com/dms/image/C5603AQFNPf9aOAimIg/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=GbzGloY710gnMTI3_ELX5bjBdl18NhcHQPmgrlFwWIw)
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQFNPf9aOAimIg/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=GbzGloY710gnMTI3_ELX5bjBdl18NhcHQPmgrlFwWIw" width=100>
 
 I work as technical manager and imaging expert at the **Cellular Imaging Facility**, Lausanne, Switzerland. My focus is on helping researchers to be able to analyze the data they acquire on our instruments.
 If you're curious about the facility, head to [the CIF website](https://cif.unil.ch), that I'm also webmastering.
 
-![CIF Logo](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1111/https://cif.unil.ch/wordpress/wp-content/uploads/2019/05/logo_site_web_cif-unil-chuv_long.png) 
+<img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1111/https://cif.unil.ch/wordpress/wp-content/uploads/2019/05/logo_site_web_cif-unil-chuv_long.png" width=400>
 
 #### 6. Contact
 
