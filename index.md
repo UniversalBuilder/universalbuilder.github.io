@@ -40,17 +40,16 @@ If you're curious about the facility, head to [the CIF website](https://cif.unil
 
 If you wish to contact me directly, here's my info:
 
-- Yannick KREMPP
-- Technical Manager | Bugnon
-- CIF | Cellular Imaging Facility
-- Bureau 212
-- rue du Bugnon 9
-- CH-1005 Lausanne
-- Tel: 0041 (0) 21 692 52 90 (bip)
-- yannick.krempp@unil.ch
-- Website: https://cif.unil.ch
-
-My LinkedIn Profile: [Yannick KREMPP](https://www.linkedin.com/in/yannick-krempp/)
+|             |                     Yannick Krempp                     |
+|-------------|:------------------------------------------------------:|
+| Position    | CIF technical manager and IT specialist                |
+| Affiliation | Cellular Imaging Facility                              |
+| Adress      | Rue du Bugnon 9, CH-1005, Lausanne                     |
+| Office      | 212                                                    |
+| Phone       | +41 21 692 52 90                                       |
+| Email       | yannick.krempp@unil.ch                                 |
+| Web         | https://cif.unil.ch                                    |
+| LinkedIn    | https://www.linkedin.com/in/yannick-krempp/
 
 #### 7. Citing
 
