@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Resources for the scientific imaging community
 
-You can use the [editor on GitHub](https://github.com/UniversalBuilder/universalbuilder.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You will find here scripts, documents, code snippets and more than can be used to build larger applications.
+This is a work in progress, and if you find bugs or errors don't hesitate to notify me !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Background
 
-### Markdown
+I work as technical manager and imaging expert at the **Cellular Imaging Facility**, Lausanne, Switzerland. My focus is on helping researchers to be able to analyze the data they acquire on our instruments.
+If you're curious about the facility, head to [the CIF website](https://cif.unil.ch), that I'm also webmastering.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Resources
 
-```markdown
-Syntax highlighted code block
+#### Documents
 
-# Header 1
-## Header 2
-### Header 3
+[Basic Digital Imaging Notions](https://github.com/UniversalBuilder/Resources-for-the-Life-Scientist/blob/master/Jupyter%20Notebooks/Basic_Digital_Imaging_Notions.ipynb) : Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.
 
-- Bulleted
-- List
+#### Python
 
-1. Numbered
-2. List
+**Code samples** inspired by [Python for Microscopists](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/featured) Youtube channel, by Dr Sreenivas B. [LinkedIn profile](https://www.linkedin.com/in/bnsreenu/)
 
-**Bold** and _Italic_ and `Code` text
+[Repository](https://github.com/UniversalBuilder/Course---Python-for-Microscopy)
 
-[Link](url) and ![Image](src)
-```
+#### Fiji
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Other
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UniversalBuilder/universalbuilder.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you wish to contact me directly, here's my info:
 
-### Support or Contact
+Yannick KREMPP
+Technical Manager | Bugnon
+CIF | Cellular Imaging Facility
+Bureau 212
+rue du Bugnon 9
+CH-1005 Lausanne
+Tél: 0041 (0) 21 692 52 90 (bip)
+yannick.krempp@unil.ch
+https://cif.unil.ch
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My LinkedIn Profile: [Yannick KREMPP](https://www.linkedin.com/in/yannick-krempp/)
+
+### Citing
+
+TBD
