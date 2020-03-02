@@ -13,7 +13,7 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 
 [Link](https://github.com/UniversalBuilder/Image-Analysis-Notions-for-the-Microscopist
 
-![preview](images/teaser_basic_image_small.png)
+![preview](images/github_repo_basic_notions.png)
 
 #### 2. Code
 
