@@ -11,7 +11,7 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 
 *Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.*
 
-[Link](https://github.com/UniversalBuilder/Image-Analysis-Notions-for-the-Microscopist
+[Link](https://github.com/UniversalBuilder/Image-Analysis-Notions-for-the-Microscopist)
 
 ![preview](images/github_repo_basic_notions.png)
 
