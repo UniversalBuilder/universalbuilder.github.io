@@ -1,13 +1,13 @@
-## Resources for the scientific imaging community
+# Resources for the scientific imaging community
 
 You will find here scripts, documents, code snippets and more than can be used to build larger applications.
 This is a work in progress, and if you find bugs or errors don't hesitate to notify me !
 
-### Resources
+## Resources
 
-#### 1. Documents
+## 1. Documents
 
-##### 1.1. Image Analysis Notions for the Microscopist
+### 1.1. Image Analysis Notions for the Microscopist
 
 *Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.*
 
@@ -15,9 +15,9 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 
 ![preview](images/github_repo_basic_notions.png)
 
-#### 2. Code
+## 2. Code
 
-##### 2.1. Python and Microscopy
+#### 2.1. Python and Microscopy
 
 ![Preview](images/github_repo_python_and_microscopy.png)
 
@@ -26,11 +26,11 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 
 [Link](https://github.com/UniversalBuilder/Python-and-Microscopy)
 
-#### 3. Fiji
+## 3. Fiji
 
-#### 4. Other
+## 4. Other
 
-#### 5. About me
+## 5. About me
 
 ![me](images/yannick_krempp.jpg)
 
@@ -39,7 +39,7 @@ If you're curious about the facility, head to [the CIF website](https://cif.unil
 
 ![logo](images/cif_logo_small.png)
 
-#### 6. Contact
+## 6. Contact
 
 If you wish to contact me directly, here's my info:
 
@@ -54,6 +54,6 @@ If you wish to contact me directly, here's my info:
 | Web         | https://cif.unil.ch                                    |
 | LinkedIn    | https://www.linkedin.com/in/yannick-krempp/
 
-#### 7. Citing
+## 7. Citing
 
 TBD
