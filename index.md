@@ -11,9 +11,11 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 
 *Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.*
 
-[Link](https://github.com/UniversalBuilder/Image-Analysis-Notions-for-the-Microscopist)
-
 ![preview](images/github_repo_basic_notions.png)
+
+[Click here to access the repository](https://github.com/UniversalBuilder/Image-Analysis-Notions-for-the-Microscopist)
+
+
 
 ## 2. Code
 
@@ -24,7 +26,7 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 *Inspired by [Python for Microscopists](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/featured) Youtube channel, by [Dr Sreenivas B.](https://www.linkedin.com/in/bnsreenu/)*
 
 
-[Link](https://github.com/UniversalBuilder/Python-and-Microscopy)
+[Click here to access the repository](https://github.com/UniversalBuilder/Python-and-Microscopy)
 
 ## 3. Fiji
 
