@@ -7,21 +7,24 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 
 #### 1. Documents
 
-##### 1.1. Basic Digital Imaging Notions
+##### 1.1. Image Analysis Notions for the Microscopist
 
 *Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.*
 
-[Link](https://github.com/UniversalBuilder/Resources-for-the-Life-Scientist/blob/master/Jupyter%20Notebooks/Basic_Digital_Imaging_Notions.ipynb)
+[Link](https://github.com/UniversalBuilder/Image-Analysis-Notions-for-the-Microscopist
 
 ![preview](images/teaser_basic_image_small.png)
 
-#### 2. Python
+#### 2. Code
 
-##### 2.1. Code samples
+##### 2.1. Python and Microscopy
+
+![Preview](images/github_repo_python_and_microscopy.png)
 
 *Inspired by [Python for Microscopists](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/featured) Youtube channel, by [Dr Sreenivas B.](https://www.linkedin.com/in/bnsreenu/)*
 
-[See the code samples here](https://github.com/UniversalBuilder/Course---Python-for-Microscopy)
+
+[Link](https://github.com/UniversalBuilder/Python-and-Microscopy)
 
 #### 3. Fiji
 
