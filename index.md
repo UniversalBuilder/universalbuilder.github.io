@@ -1,15 +1,15 @@
-# Resources for the scientific imaging community
+# Resources for the life scientist
 
 You will find here scripts, documents, code snippets and more than can be used to build larger applications.
 This is a work in progress, and if you find bugs or errors don't hesitate to notify me !
 
-## Resources
+## Resources for learning and working with bio-image processing and analysis
 
-## 1. Documents
+## 1. Basic
 
 ### 1.1. Image Analysis Notions for the Microscopist
 
-*Concepts like digital images, DPI, scale, interpolation, using a Jupyter Notebook to illustrate them.*
+*Basic notions and concepts like digital images, DPI, scale, interpolation, filtering, and much more using various media to illustrate them: macros, notebooks, PDFs...*
 
 ![preview](images/github_repo_basic_notions.png)
 
@@ -17,18 +17,23 @@ This is a work in progress, and if you find bugs or errors don't hesitate to not
 
 
 
-## 2. Code
+## 2. Advanced
+
+*This section is adressed to scientists who already have some programming notions. You will find more advanced topics like python scripting, machine learning, automation using various tools.*
 
 #### 2.1. Python and Microscopy
 
 ![Preview](images/github_repo_python_and_microscopy.png)
 
-*Inspired by [Python for Microscopists](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/featured) Youtube channel, by [Dr Sreenivas B.](https://www.linkedin.com/in/bnsreenu/)*
-
+*Collection of Jupyter notebooks. Inspired by [Python for Microscopists](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w/featured) Youtube channel, by [Dr Sreenivas B.](https://www.linkedin.com/in/bnsreenu/) adapted for the format, but it also contains scripts of my own, and maybe other external additions in the future.*
 
 [Click here to access the repository](https://github.com/UniversalBuilder/Python-and-Microscopy)
 
 ## 3. Fiji
+
+*Fiji scripts and ImageJ macros. Some simple applications, and tools meant to be used as building blocks for more complex projects.*
+
+[Work in Progress]
 
 ## 4. Other
 
